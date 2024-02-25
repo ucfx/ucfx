@@ -2,13 +2,14 @@
 
 Full Stack Developer / Nodejs & TypeScript
 
-<!--
 <div style="text-align: center;">
-
+  
+![](https://komarev.com/ghpvc/?username=ucfx)
+<!--
 [![](https://visitcount.itsvg.in/api?id=robertolima-dev&label=Profile%20Views&color=12&icon=5&pretty=true)]
 
-</div>
 -->
+</div>
 # 💻 Tech Stack:
 
 <div style="text-align: ;">
