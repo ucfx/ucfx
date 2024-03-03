@@ -10,6 +10,7 @@ Full Stack Developer / Nodejs & TypeScript
 
 -->
 </div>
+
 # 💻 Tech Stack:
 
 <div style="text-align: ;">
